@@ -14,9 +14,13 @@ Please see the attached files for more details and interactive dashboards. The f
 
 ## Call Center Dashboard:
 
+
 <img width="1170" alt="Call Center Dashboard" src="https://github.com/uyen-h-tran/Phone-Now-data-analysis-using-PowerBI/assets/80579258/d5236ce8-f36e-4498-abd3-429deafc1119">
 
+
 ## Customer Retention Dashboard:
+
+
 <img width="1085" alt="Customer Retention_Customer Dashboard" src="https://github.com/uyen-h-tran/Phone-Now-data-analysis-using-PowerBI/assets/80579258/65e3bee9-b9e0-4747-9eb9-f5888decf4a9">
 
 
