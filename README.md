@@ -52,9 +52,9 @@ I am writing to you today to discuss my findings and provide suggestions for nec
 
 **Next Steps**
 
-I recommend that we meet with PhoneNow to discuss these findings and suggestions in more detail. I am also happy to create additional dashboards or reports to help PhoneNow understand their churn data and identify specific areas for improvement.
+I recommend that we meet with PhoneNow to discuss these findings and suggestions in more detail. I am also happy to create additional dashboards or reports to help PhoneNow understand their churn data and identify specific areas for improvement. 
 
-Thank you for your time and consideration.
+Thank you and please let me know if you have any feedback or questions.
 
 Sincerely,
 
