@@ -6,7 +6,7 @@ Within the PwC team, your tasks are:
 
 1. Create a Power BI dashboard for the Call Center Manager that reflects all relevant KPIs and metrics in the dataset.
 2. Define proper KPIs for customer retention and create a Power BI dashboard for the Retention Manager that reflects all relevant KPIs and metrics in the dataset.
-3. Write a concise email to the engagement partner explaining my findings and providing suggestions for necessary changes based on the dashboards I have created.
+3. Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboards you have created.
 
 # Task reports
 
