@@ -10,7 +10,7 @@ I am a Data Analyst on the PwC team, and my tasks are:
 
 # Task reports
 
-Please see the attached files for more details and interactive dashboards.
+Please see the attached files for more details and interactive dashboards. The following is for previewing.
 
 <img width="1170" alt="Call Center Dashboard" src="https://github.com/uyen-h-tran/Phone-Now-data-analysis-using-PowerBI/assets/80579258/d5236ce8-f36e-4498-abd3-429deafc1119">
 
