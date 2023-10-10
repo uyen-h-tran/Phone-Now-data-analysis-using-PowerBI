@@ -1,4 +1,4 @@
-# Background information
+# Scenario
 
 PhoneNow, a large telecom company, is a PwC client. PhoneNow works with PwC to gain insights about their business and improve their products and services.
 
