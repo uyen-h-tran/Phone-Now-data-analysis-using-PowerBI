@@ -46,7 +46,6 @@ I am writing to you today to discuss my findings and provide suggestions for nec
 
 - PhoneNow should offer more competitive prices and plans for contracts less than one year, month-to-month contracts, and fiber optic internet service.
 - PhoneNow should also offer incentives for customers to pay by methods other than electronic check.
-- PhoneNow should invest in improving customer service, especially for customers who are at risk of churning.
 - PhoneNow should invest in training for the customer support team so that they can better resolve technical issues.
 - PhoneNow should focus its retention efforts on customers with the highest CLVs, especially customers on month-to-month contracts, contracts lasting 2-4 years, and using fiber optic internet service.
 
