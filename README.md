@@ -2,7 +2,7 @@
 
 PhoneNow, a large telecom company, is a PwC client. PhoneNow works with PwC to gain insights about their business and improve their products and services.
 
-Within the PwC team, my tasks are:
+Within the PwC team, your tasks are:
 
 1. Create a Power BI dashboard for the Call Center Manager that reflects all relevant KPIs and metrics in the dataset.
 2. Define proper KPIs for customer retention and create a Power BI dashboard for the Retention Manager that reflects all relevant KPIs and metrics in the dataset.
